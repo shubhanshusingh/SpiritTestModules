@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_5_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Spirit\LoginActivity.cs">
+    <Files>
+      <File FileName="Spirit\LoginActivity.cs" Line="23" Column="23" />
+      <File FileName="c:\Users\shubhanshu\Documents\Projects\Spirit\Spirit\App.cs" Line="1" Column="1" />
+      <File FileName="Spirit\Properties\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Spirit\obj\Debug\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Spirit MonoForAntroid.PreferredDevice="Nexus 4" MonoForAntroid.PreferredTheme="Theme.Splash" />
+</Properties>

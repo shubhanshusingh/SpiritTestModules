@@ -1,0 +1,11 @@
+anim/popoutMenuItemAnticipateInterpolator.xml;anim/popoutmenuitemanticipateinterpolator.xml
+anim/popoutMenuItemClickAnim.xml;anim/popoutmenuitemclickanim.xml
+anim/popoutMenuItemClickInterpolator.xml;anim/popoutmenuitemclickinterpolator.xml
+anim/popoutMenuItemInRotateInterpolator.xml;anim/popoutmenuiteminrotateinterpolator.xml
+anim/popoutMenuItemOutRotateInterpolator.xml;anim/popoutmenuitemoutrotateinterpolator.xml
+anim/popoutMenuItemOvershootInterpolator.xml;anim/popoutmenuitemovershootinterpolator.xml
+anim/popoutMenuRotateLeftAnim.xml;anim/popoutmenurotateleftanim.xml
+anim/popoutMenuRotateRight.xml;anim/popoutmenurotateright.xml
+values/popoutMenuAttr.xml;values/popoutmenuattr.xml
+values/popoutMenuStrings.xml;values/popoutmenustrings.xml
+layout/popoutMenuItem.xml;layout/popoutmenuitem.xml
