@@ -1,7 +1,7 @@
-C:\Users\shubhanshu\Documents\Projects\Spirit\Spirit\bin\Debug\Spirit.dll
-C:\Users\shubhanshu\Documents\Projects\Spirit\Components\parse-1.3.1\lib\android\Parse.Android.dll
-C:\Users\shubhanshu\Documents\Projects\Spirit\Components\satellite-menu-1.2.0.0\lib\android\SatelliteMenu.dll
+C:\Users\shubhanshu\Documents\Projects\Spirit\SpiritTestModules\Spirit\bin\Debug\Spirit.dll
+C:\Users\shubhanshu\Documents\Projects\Spirit\SpiritTestModules\Components\parse-1.3.1\lib\android\Parse.Android.dll
+C:\Users\shubhanshu\Documents\Projects\Spirit\SpiritTestModules\Components\satellite-menu-1.2.0.0\lib\android\SatelliteMenu.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.IO.Compression.FileSystem.dll
-C:\Users\shubhanshu\Documents\Projects\Spirit\Components\loginscreen-1.4\lib\android\Xamarin.Controls.LoginScreen.Android.dll
-C:\Users\shubhanshu\Documents\Projects\Spirit\Components\facebookandroid-3.17.2.0\lib\android\Xamarin.Facebook.dll
-C:\Users\shubhanshu\Documents\Projects\Spirit\Spirit\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\shubhanshu\Documents\Projects\Spirit\SpiritTestModules\Components\loginscreen-1.4\lib\android\Xamarin.Controls.LoginScreen.Android.dll
+C:\Users\shubhanshu\Documents\Projects\Spirit\SpiritTestModules\Components\facebookandroid-3.17.2.0\lib\android\Xamarin.Facebook.dll
+C:\Users\shubhanshu\Documents\Projects\Spirit\SpiritTestModules\Spirit\bin\Debug\Xamarin.Android.Support.v4.dll
